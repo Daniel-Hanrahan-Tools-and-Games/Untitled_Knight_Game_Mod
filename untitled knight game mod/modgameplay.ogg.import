@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://5eo5iob6yrbq"
+path="res://.godot/imported/modgameplay.ogg-9be2ebbce20799026e44d73375253ac2.oggvorbisstr"
+
+[deps]
+
+source_file="res://untitled knight game mod/modgameplay.ogg"
+dest_files=["res://.godot/imported/modgameplay.ogg-9be2ebbce20799026e44d73375253ac2.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
